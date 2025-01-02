@@ -1,6 +1,6 @@
 # AutoComm
 
-The reference implementation of MICRO2022 AutoComm paper: [AutoComm: A framework for enabling efficient communication in distributed quantum programs](https://ieeexplore.ieee.org/document/9923799)
+The reference implementation of MICRO2022 AutoComm paper: [AutoComm: A framework for enabling efficient communication in distributed quantum programs](https://ieeexplore.ieee.org/document/9923799).
 
 The code comments are still insufficient, and we will work on improving them.
 
